@@ -1,0 +1,9 @@
+/*Write your Custom Css here*/
+#nprogress .bar {
+    background: #f4505d !important;
+}
+
+#nprogress .spinner-icon {
+    border-top-color: #f4505d !important;
+    border-left-color: #f4505d !important;
+}
